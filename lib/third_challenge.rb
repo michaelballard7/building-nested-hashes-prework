@@ -2,7 +2,7 @@ def third_challenge
   epic_tragedy = {
    :montague => {
       :patriarch => {
-        name: "Lord Montague",
+        name: "Lord Montague", # second way to write has value symbols
         age: "53"
         },
       :matriarch => {
